@@ -81,7 +81,7 @@
         <version.hdrhistogram>2.1.10</version.hdrhistogram>
         <version.jsr305>3.0.2</version.jsr305>
         <version.yaml-rule>2.0.0</version.yaml-rule>
-        <version.http-client>1.0.13</version.http-client>
+        <version.http-client>2.0.23</version.http-client>
         <version.snakeyaml>2.3</version.snakeyaml>
         <version.caffeine>3.1.5</version.caffeine>
         <version.prometheus>0.16.0</version.prometheus>
@@ -1112,7 +1112,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -1129,7 +1129,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
